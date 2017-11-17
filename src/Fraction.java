@@ -1,4 +1,9 @@
-
+/**
+ * 
+ * @author Xiaotong Yang
+ * @version 1.0
+ *
+ */
 public class Fraction {
 	
 	private int numerator;

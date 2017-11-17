@@ -1,5 +1,10 @@
 import java.util.ArrayList;
-
+/**
+ * 
+ * @author Xiaotong Yang
+ * @version 1.0
+ *
+ */
 public class Polynomial {
 	private ArrayList<Integer> polyList;
 	
